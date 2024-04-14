@@ -11,7 +11,7 @@
 .light_mode {
   background-color: #fff;
   color: #222;
-  background-image: url(''WeatherApp-main\src\Img\light.jpg');
+  background-image: url('WeatherApp-main\src\Img\light.jpg');
    background-size: cover; /* Adjust this according to your needs */
    background-position: center; /* Adjust this according to your needs */
 }
