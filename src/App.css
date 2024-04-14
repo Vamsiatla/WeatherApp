@@ -3,7 +3,7 @@
   background-color: #3c3b3f;
   color: #ddd;
    /* Background image */
-   background-image: url('C:\Users\todea\Documents\Weather_Application_React-main\src\Img\dark.jpg');
+   background-image: url('WeatherApp-main\src\Img\dark.jpg');
    background-size: cover; /* Adjust this according to your needs */
    background-position: center; /* Adjust this according to your needs */
 }
@@ -11,7 +11,7 @@
 .light_mode {
   background-color: #fff;
   color: #222;
-  background-image: url('C:\Users\todea\Documents\Weather_Application_React-main\src\Img\light.jpg');
+  background-image: url(''WeatherApp-main\src\Img\light.jpg');
    background-size: cover; /* Adjust this according to your needs */
    background-position: center; /* Adjust this according to your needs */
 }
